@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail: andrewsafonovpost@gmail.com
+- 📫 How to reach me: andrewsafonovpost@gmail.com / @nordhuman (Telegram)
 -                     telegram: @nordhuman
 -                     instagram: @andrew.safonov
 
